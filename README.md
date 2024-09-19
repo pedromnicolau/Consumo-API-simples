@@ -8,6 +8,7 @@ Como usar:
 2- Abra o console na pasta em que deseja fazer a requisição;
 
 3- Rode os seguintes comandos:
+
   3a) python -m venv venv
 
   3b) venv\Scripts\activate
